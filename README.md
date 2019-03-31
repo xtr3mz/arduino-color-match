@@ -1,5 +1,7 @@
 arduino-color-match
 
+note: not really accurate btw
+
 UI:
 HTML
 javascript+css
